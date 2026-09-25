@@ -1,0 +1,8 @@
+# Локальные настройки, секреты и служебные dotfiles.
+.*
+!.gitignore
+
+/dex/ 
+/iconf22-paraphrase/ 
+
+AGENTS.md 
